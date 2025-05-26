@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\casha\\Documents\\GitHub\\Project\\StatisticsCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D46E-FB94-409D-8658-DFC589560B46}|StatisticsCalculator\\StatisticsCalculator.vcxproj|C:\\Users\\casha\\Documents\\GitHub\\Project\\StatisticsCalculator\\StatisticsCalculator\\StatisticsCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBE4D46E-FB94-409D-8658-DFC589560B46}|StatisticsCalculator\\StatisticsCalculator.vcxproj|solutionrelative:StatisticsCalculator\\StatisticsCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatisticsCalculator.cpp",
+              "DocumentMoniker": "C:\\Users\\casha\\Documents\\GitHub\\Project\\StatisticsCalculator\\StatisticsCalculator\\StatisticsCalculator.cpp",
+              "RelativeDocumentMoniker": "StatisticsCalculator\\StatisticsCalculator.cpp",
+              "ToolTip": "C:\\Users\\casha\\Documents\\GitHub\\Project\\StatisticsCalculator\\StatisticsCalculator\\StatisticsCalculator.cpp*",
+              "RelativeToolTip": "StatisticsCalculator\\StatisticsCalculator.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T09:36:58.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

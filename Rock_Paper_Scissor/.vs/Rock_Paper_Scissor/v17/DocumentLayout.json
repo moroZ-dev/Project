@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\casha\\Documents\\GitHub\\Project\\Rock_Paper_Scissor\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D810BF-97B3-421A-93B4-837B45644512}|Rock_Paper_Scissor\\Rock_Paper_Scissor.vcxproj|C:\\Users\\casha\\Documents\\GitHub\\Project\\Rock_Paper_Scissor\\Rock_Paper_Scissor\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84D810BF-97B3-421A-93B4-837B45644512}|Rock_Paper_Scissor\\Rock_Paper_Scissor.vcxproj|solutionrelative:Rock_Paper_Scissor\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\casha\\Documents\\GitHub\\Project\\Rock_Paper_Scissor\\Rock_Paper_Scissor\\Input.cpp",
+              "RelativeDocumentMoniker": "Rock_Paper_Scissor\\Input.cpp",
+              "ToolTip": "C:\\Users\\casha\\Documents\\GitHub\\Project\\Rock_Paper_Scissor\\Rock_Paper_Scissor\\Input.cpp",
+              "RelativeToolTip": "Rock_Paper_Scissor\\Input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T09:41:49.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
